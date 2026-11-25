@@ -1,0 +1,6 @@
+Configuring and connecting to a remote repository
+MAKE DIRECTORY
+
+1. From the command line, move to the directory you want to contain your Git repository.
+2. Type the following command to configure your Git username, where &lt;your name&gt; will
+be your GitHub username.
