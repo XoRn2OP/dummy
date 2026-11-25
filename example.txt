@@ -1,0 +1,11 @@
+● Created an open source repository
+● Started and managed a new branch
+● Changed a file and committed those changes to GitHub
+● Opened and merged a Pull Request
+
+1. To create a new repository
+2. Create a Branch
+3. Make and commit changes
+4. Open a Pull Request
+5. Merge your Pull Request
+6. Delete the Branch
